@@ -1,6 +1,6 @@
-## Olá! Eu sou a Karoline.
-- 🌱 Estou atualmente estudando JavaScript
-- 😊Pronomes: ela/dela 
+## Hello! I'm Karoline.
+- 🌱 I'm studying JavaScript.
+- 😊 Pronouns:she/her.
 
 <div align="center">
   <a href="https://github.com/Karol-Alves">
