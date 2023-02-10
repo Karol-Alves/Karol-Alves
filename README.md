@@ -1,5 +1,5 @@
 ## Hello! I'm Karoline.
-- 🌱 I'm studying JavaScript.
+- 🌱 I'm studying JavaScript, HTML and CSS.
 - 😊 Pronouns:she/her.
 
 <div align="center">
