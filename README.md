@@ -1,6 +1,6 @@
 ## Hello! I'm Karoline.
 - 🌱 I'm studying JavaScript, HTML and CSS.
-- 😊 Pronouns:she/her.
+- 😊 Pronouns:she/her
 
 <div align="center">
   <a href="https://github.com/Karol-Alves">
