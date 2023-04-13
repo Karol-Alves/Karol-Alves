@@ -1,12 +1,14 @@
-## Hello, Devs! Bem vindos ao meu perfil do Github.
-- Me chamo Karoline.
-- Estudo desenvolvimento web e ciências da computação.
-- Sou entusiasta de tecnologia, apaixonada por games e pelo mundo geek!
-- Atualmente estou estudando:
+<h1>Hello, Devs! Bem vindos ao meu perfil do Github.</h1>
+<ul>
+   <li>Me chamo Karoline.</li>
+   <li>Estudo desenvolvimento web e ciências da computação.</li>
+   <li>Sou entusiasta de tecnologia, apaixonada por games e pelo mundo geek! </li>
+   <li>Atualmente uso as seguintes linguagens (e mais algumas):</li>
+ </ul>
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 </div>
-- Entre em contato comigo:
+<p><strong> Entre em contato comigo:</strong></p>
 <div>
     <a href="https://www.linkedin.com/in/karolinealves2101/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:alveskarol618@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
