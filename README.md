@@ -1,7 +1,7 @@
 <h1 align="center">Hello, Devs! Bem vindos ao meu perfil do Github.</h1>
 <ul>
    <li>Me chamo Karoline.</li>
-   <li>Estudo desenvolvimento web e ciências da computação.</li>
+   <li>Estudo desenvolvimento web na Alura e Análise e Desenvolvimento pela FMU.</li>
    <li>Sou entusiasta de tecnologia, apaixonada por games e pelo mundo geek! </li>
    <li>Atualmente uso as seguintes linguagens (e mais algumas):</li>
  </ul>
