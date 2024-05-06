@@ -1,15 +1,12 @@
 <h1 align="center">Hello, Devs! Bem vindos ao meu perfil do Github.</h1>
 <ul>
    <li>Me chamo Karoline.</li>
-   <li>Estudo desenvolvimento web na Alura e Análise e Desenvolvimento pela FMU.</li>
+   <li>Graduando em Análise e Desenvolvimento pela FMU, estagiária de desenvolvimento de software na ALESP.</li>
    <li>Sou entusiasta de tecnologia, apaixonada por games e pelo mundo geek! </li>
  </ul>
 <div align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
 </div>
 
