@@ -5,7 +5,7 @@
     </a>
   </div>
 
- - Me chamo Karoline.
+ - Me chamo Karoline, tenho 20 anos.
  - Graduando em Análise e Desenvolvimento pela FMU, estagiária de desenvolvimento de software na ALESP.
  - Sou entusiasta de tecnologia, apaixonada por games e pelo mundo geek!  
 
