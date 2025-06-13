@@ -5,8 +5,9 @@
     </a>
   </div>
 
- - Me chamo Karoline, tenho 20 anos.
- - Graduando em Análise e Desenvolvimento pela FMU, estagiária de desenvolvimento de software na ALESP.
+ - Me chamo Karoline, tenho 21 anos.
+ - Graduada em Análise e Desenvolvimento pela FMU, engenheira de software na EY, atuando no Banco do Brasil na frente de SRE.
+ - Java Quarkus, Angular JS, Oracle DB.
  - Sou entusiasta de tecnologia, apaixonada por games e pelo mundo geek!  
 
  <div align="right">
