@@ -6,7 +6,7 @@
   </div>
 
  - Me chamo Karoline, tenho 21 anos.
- - Graduada em Análise e Desenvolvimento pela FMU, engenheira de software na EY, atuando no Banco do Brasil na frente de SRE.
+ - Graduada em Análise e Desenvolvimento pela FMU, engenheira de software na EY, atuando no Banco do Brasil na frente da cobrança com Mainframe e Java Quarkus.
  - Java Quarkus, Angular JS, Oracle DB.
  - Sou entusiasta de tecnologia, apaixonada por games e pelo mundo geek!  
 
