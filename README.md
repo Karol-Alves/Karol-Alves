@@ -1,14 +1,64 @@
-### Hello, Devs! Bem vindos ao meu perfil do Github.
+# Hi, I'm Karol! 👋 | Olá, sou a Karol!
  <div align="justify">
     <a href="https://ibb.co/1r0SpRZ">
       <img src="https://i.ibb.co/X7WwdFX/octocat-1715006513125.png" alt="octocat-1715006513125" border="0" width="250" height="250" />
     </a>
   </div>
 
- - Me chamo Karoline, tenho 21 anos.
- - Graduada em Análise e Desenvolvimento pela FMU, engenheira de software na EY, atuando no Banco do Brasil na frente da cobrança com Mainframe e Java Quarkus.
- - Java Quarkus, Angular JS, Oracle DB.
- - Sou entusiasta de tecnologia, apaixonada por games e pelo mundo geek!  
+### 🇺🇸 About Me
+Full Stack Developer focused on **Java, Spring Boot, and Angular**. Experienced in software development, REST APIs, relational databases, and legacy system modernization. Currently working on modernizing COBOL-based applications and transitioning them to cloud environments.
+
+Passionate about technology, continuous learning, and building scalable, efficient, and maintainable software solutions.
+
+### 🇧🇷 Sobre Mim
+Desenvolvedora Full Stack com foco em **Java, Spring Boot e Angular**. Tenho experiência em desenvolvimento de software, APIs REST, bancos de dados relacionais e modernização de sistemas legados. Atualmente, trabalho na modernização de aplicações desenvolvidas em COBOL e na transição para ambientes em nuvem.
+
+Apaixonada por tecnologia, aprendizado contínuo e desenvolvimento de soluções de software escaláveis, eficientes e de fácil manutenção.
+
+---
+
+### 🛠️ Technologies & Tools | Tecnologias e Ferramentas
+
+- **Backend:** Java, Spring Boot, COBOL
+- **Frontend:** Angular, TypeScript, HTML, CSS
+- **Databases:** Oracle, SQL, DB2
+- **Concepts:** REST APIs, Software Architecture, Legacy Modernization
+- **Methodologies:** Agile, Scrum, Kanban
+- **Tools:** Git, GitHub, Docker
+
+---
+
+
+# 💼 Professional Experience | Experiência Profissional
+
+## 🇺🇸 English
+
+### Capgemini — Software Developer
+Working as a consultant allocated to Bradesco, contributing to legacy system modernization and the migration of COBOL-based applications to cloud environments using Java, Spring Boot, and Angular.
+
+### EY — Technology Consultant
+Worked as a consultant allocated to Banco do Brasil, contributing to enterprise software development and maintenance using Java, Angular, COBOL, and relational databases.
+
+### ALESP — Full Stack Developer
+Developed and maintained web applications using Java, Spring, Angular, Docker, Git, and Swagger.
+
+---
+
+## 🇧🇷 Português
+
+### Capgemini — Desenvolvedora de Software
+Atuação como consultora alocada no Bradesco, contribuindo para a modernização de sistemas legados e a migração de aplicações COBOL para ambientes em nuvem, utilizando Java, Spring Boot e Angular.
+
+### EY — Consultora de Tecnologia
+Atuação como consultora alocada no Banco do Brasil, contribuindo para o desenvolvimento e a manutenção de sistemas corporativos com Java, Angular, COBOL e bancos de dados relacionais.
+
+### ALESP — Desenvolvedora Full Stack
+Desenvolvimento e manutenção de aplicações web utilizando Java, Spring, Angular, Docker, Git e Swagger.
+
+
+### 🌐 Languages | Idiomas
+- Portuguese: Native | Português: Nativo
+- English: Intermediate reading and writing | Inglês: Intermediário em leitura e escrita  
 
  <div align="right">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
